@@ -45,7 +45,7 @@ def keep_alive():
 
 # --- Configuration ---
 TOKEN = '8566876479:AAHpHqfQgSHgDbJLdVPB4-ZWeFEFzrUCH54'
-OWNER_ID = 8620006563
+OWNER_ID = 7957888827
 ADMIN_ID = 8167948791
 YOUR_USERNAME = '@dekhlaladekh'
 UPDATE_CHANNEL = 'https://t.me/fuckerbihari00'
